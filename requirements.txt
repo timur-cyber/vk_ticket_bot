@@ -1,0 +1,12 @@
+certifi==2020.4.5.2
+chardet==3.0.4
+coverage==5.3
+enum34==1.1.10
+idna==2.9
+Pillow==8.0.1
+pony==0.7.14
+psycopg2==2.8.6
+requests==2.24.0
+six==1.15.0
+urllib3==1.25.9
+vk-api==11.3.0
